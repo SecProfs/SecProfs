@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://j.top4top.io/p_3587hr6hp1.jpg" alt="SecProfs Logo" width="300" style="border-radius:16px; margin-top:20px;">
+<img src="https://j.top4top.io/p_3587hr6hp1.jpg" alt="SecProfs Logo" width="320" style="border-radius:16px; margin-top:20px;">
 
 ### *Elite Cyber Security Professionals — Specialized in Reverse Engineering, PenTesting & Malware Analysis.*
 
@@ -14,21 +14,22 @@
 
 ---
 
-## 🧠 **من نحن**
+## 🧠 **About Us**
 
-**SecProfs** (اختصار لـ *Security Professors*) هو فريق مكوّن من أربعة خبراء في **أمن المعلومات، التحليل العكسي، تحليل البرمجيات الخبيثة، الشبكات، وتطوير الأدوات الأمنية**. يجمع الفريق بين **الخبرة التقنية العميقة** و**الاحترافية العالية** في تقديم حلول أمنية متكاملة وذكية.
+**SecProfs** (short for *Security Professors*) is a team of four cybersecurity professionals specialized in **offensive and defensive security, malware analysis, digital forensics, and network protection**.  
+We combine **deep technical expertise** with **strategic insight** to deliver advanced and reliable security solutions.
 
 ---
 
-## 👥 **أعضاء الفريق**
+## 👥 **Our Team**
 
 ### 🧩 Mohamed Mamdouh Fathy — **MASA**
 
 <img src="https://f.top4top.io/p_35871hnw91.jpg" alt="Mohamed Mamdouh (MASA)" width="160" style="border-radius:14px;box-shadow:0 0 12px rgba(255,0,0,0.4);margin:15px 0;">
 
-**التخصّص:** Reverse Engineering · Malware Analysis · Network Security · Digital Forensics · Red Team
-**المهارات:** Python, C#, C++, Shell Scripting, Automation, CI/CD, System Hardening, Linux, Ghidra, IDA Pro, Burp Suite, Wireshark
-**لغات البرمجة:** C, C#, C++, Python, PHP, Java, JavaScript, SQL, Go, Assembly, PowerShell, TypeScript, وغيرها.
+**Expertise:** Reverse Engineering · Malware Analysis · Network Security · Digital Forensics · Red Team  
+**Skills:** Python, C#, C++, Shell Scripting, Automation, CI/CD, System Hardening, Linux, Ghidra, IDA Pro, Burp Suite, Wireshark  
+**Programming Languages:** C, C#, C++, Python, PHP, Java, JavaScript, SQL, Go, Assembly, PowerShell, TypeScript, and more.  
 **LinkedIn:** [Mohamed Mamdouh (MASA)](https://www.linkedin.com/in/mohamed-mamdouh-masa/)
 
 ---
@@ -37,9 +38,9 @@
 
 <img src="https://c.top4top.io/p_3587z6xa81.jpg" alt="Abdelrahman Atef (Scolze)" width="160" style="border-radius:14px;box-shadow:0 0 12px rgba(255,0,0,0.4);margin:15px 0;">
 
-**التخصّص:** Web Development · Network Administration · Cyber Security
-**المهارات:** HTML/CSS/JS, PHP, Django, SQL, Firebase, WordPress, C/C++/Java/Python, Flutter/Dart, Linux
-**الشهادات:** CCNA, Network+, MCSA, Security+, CEH, eJPT, OSCP
+**Expertise:** Web Development · Network Administration · Cyber Security  
+**Skills:** HTML, CSS, JS, PHP, Django, SQL, Firebase, WordPress, C/C++/Java/Python, Flutter/Dart, Linux  
+**Certifications:** CCNA, Network+, MCSA, Security+, CEH, eJPT, OSCP  
 **LinkedIn:** [Abdelrahman Atef (Scolze)](https://www.linkedin.com/in/abdoatef267/)
 
 ---
@@ -48,8 +49,8 @@
 
 <img src="https://g.top4top.io/p_3587mkccw1.jpg" alt="Adham Sayed (El Doosh)" width="160" style="border-radius:14px;box-shadow:0 0 12px rgba(255,0,0,0.4);margin:15px 0;">
 
-**التخصّص:** Network & System Administration · Web Security
-**المهارات:** CCNA, MCSA, Security+, CEH, HTML/CSS/JS, Linux
+**Expertise:** Network & System Administration · Web Security  
+**Skills:** CCNA, MCSA, Security+, CEH, HTML, CSS, JS, Linux  
 **LinkedIn:** [Adham Sayed (El Doosh)](https://www.linkedin.com/in/adhm-sayed-3a590b324/)
 
 ---
@@ -58,43 +59,43 @@
 
 <img src="https://k.top4top.io/p_3587tl63i1.jpg" alt="Youssef Abdullah (Brom)" width="160" style="border-radius:14px;box-shadow:0 0 12px rgba(255,0,0,0.4);margin:15px 0;">
 
-**التخصّص:** Network & System Administration · Cyber Security
-**المهارات:** CCNA, MCSA, Security+, CEH, HTML/CSS/JS, Linux
+**Expertise:** Network & System Administration · Cyber Security  
+**Skills:** CCNA, MCSA, Security+, CEH, HTML, CSS, JS, Linux  
 **LinkedIn:** [Youssef Abdullah (Brom)](https://www.linkedin.com/in/yousef-abdullah-337693219/)
 
 ---
 
-## 🛠️ **خدمات الفريق**
+## 🛠️ **Our Services**
 
-| 🧩 المجال                                     | 💡 التفاصيل                                         |
-| --------------------------------------------- | --------------------------------------------------- |
-| 🔐 **تقييم أمني شامل**                        | تدقيق الشبكات والأنظمة وتحليل البنية التحتية للأمان |
-| 🧬 **اختبارات اختراق (Red Team)**             | محاكاة هجمات حقيقية لاختبار فعالية الدفاعات         |
-| 🧩 **تحليل برمجيات خبيثة (Malware Analysis)** | تحليل العينات وتحديد سلوكها بدقة عالية              |
-| 🕵️‍♂️ **التحري الرقمي (Digital Forensics)**  | جمع الأدلة وتحليل الحوادث الأمنية                   |
-| ⚙️ **أتمتة أمنية (Automation & CI/CD)**       | تطوير أدوات أمنية وأتمتة عمليات الحماية             |
-| 🧱 **Hardening**                              | تقوية الخوادم والتطبيقات ضد الثغرات الأمنية         |
-
----
-
-## 🔍 **منهجية العمل**
-
-> نلتزم بمنهجية عمل احترافية لضمان الجودة والنتائج الدقيقة:
-
-1. **تحليل أولي:** جمع المعلومات وتحديد نطاق العمل.
-2. **اختبار شامل:** استخدام أدوات تحليل واختبارات اختراق متقدمة.
-3. **تحليل تقني:** مراجعة النتائج وتحديد نقاط الضعف الحرجة.
-4. **التوصيات:** تقديم تقارير تفصيلية وخطة تصحيح أمنية.
-5. **إعادة الفحص:** اختبار ما بعد الإصلاح لضمان الإغلاق التام للثغرات.
+| 🔐 Area | 💼 Description |
+|----------|----------------|
+| **Comprehensive Security Assessment** | Network and infrastructure auditing with detailed reporting. |
+| **Penetration Testing (Red Team)** | Simulated real-world attacks to evaluate defense mechanisms. |
+| **Malware Analysis** | In-depth analysis of malicious samples and behavioral patterns. |
+| **Digital Forensics** | Evidence collection, investigation, and incident response. |
+| **Automation & CI/CD Security** | Custom security tools and process automation. |
+| **System Hardening** | Strengthening servers and applications against vulnerabilities. |
 
 ---
 
-## 💬 **تواصل معنا**
+## 🔍 **Our Workflow**
 
-* 🌐 **GitHub:** [SecProfs](#)
-* ✉️ **Email:** [contact@secprofs.example](mailto:contact@secprofs.example)
-* 💼 **LinkedIn:** روابط الأعضاء أعلاه
-* 📬 **للتعاون أو المشاريع:** أرسل وصف المشروع وسنعاود التواصل فورًا.
+We adhere to a structured, professional methodology to ensure precision and reliability:
+
+1. **Initial Analysis:** Gathering information and defining scope.  
+2. **Comprehensive Testing:** Utilizing advanced tools for security evaluation.  
+3. **Technical Review:** Identifying vulnerabilities and analyzing impact.  
+4. **Recommendations:** Delivering detailed remediation and security reports.  
+5. **Revalidation:** Post-fix testing to confirm complete vulnerability closure.
+
+---
+
+## 💬 **Contact Us**
+
+- 🌐 **GitHub:** [SecProfs](#)  
+- ✉️ **Email:** contact@secprofs.example  
+- 💼 **LinkedIn:** Refer to members’ profiles above  
+- 📬 **For collaborations or projects:** Send a detailed request — we’ll get back to you promptly.
 
 ---
 
