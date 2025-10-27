@@ -1,49 +1,94 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# ⚔️ SecProfs (Security Professors)
 
-###
+> **"We don’t just secure systems — we secure trust."**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 🧠 من نحن
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+**SecProfs** (اختصار لـ *Security Professors*) هو فريق مكوّن من أربعة مهندسين متخصصين في **أمن المعلومات، التحليل العكسي، تحليل البرمجيات الخبيثة، الشبكات، وتطوير الأدوات الأمنية**. هدفنا هو تمكين المؤسسات من الدفاع بذكاء، وبناء أنظمة قوية وآمنة مع التركيز على **الاحترافية والجودة التقنية العالية**.
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+## 👥 أعضاء الفريق
 
-###
+### 🧩 Mohamed Mamdouh Fathy — **MASA**
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+<img src="https://f.top4top.io/p_35871hnw91.jpg" alt="Mohamed Mamdouh (MASA)" width="140" style="border-radius:12px;box-shadow:0 0 10px rgba(0,0,0,0.3);margin:10px 0;">
 
-###
+**التخصّص:** Reverse Engineering · Malware Analysis · Network Security · Digital Forensics · Red Team
+**المهارات:** Python, C#, C++, Shell Scripting, Automation, CI/CD, System Hardening, Linux, Ghidra, IDA Pro, Burp Suite, Wireshark
+**لغات البرمجة:** C, C#, C++, Python, PHP, Java, JavaScript, SQL, Go, Assembly, PowerShell, TypeScript, وغيرها.
+**LinkedIn:** [Mohamed Mamdouh (MASA)](https://www.linkedin.com/in/mohamed-mamdouh-masa/)
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+### 💻 Abdelrahman Atef — **Scolze**
 
-###
+<img src="https://c.top4top.io/p_3587z6xa81.jpg" alt="Abdelrahman Atef (Scolze)" width="140" style="border-radius:12px;box-shadow:0 0 10px rgba(0,0,0,0.3);margin:10px 10px 0 0;">
+<img src="https://g.top4top.io/p_3587mkccw1.jpg" alt="Scolze (Profile 2)" width="140" style="border-radius:12px;box-shadow:0 0 10px rgba(0,0,0,0.3);margin:10px 0;">
+
+**التخصّص:** Web Development · Network Administration · Cyber Security
+**المهارات:** HTML/CSS/JS, PHP, Django, SQL, Firebase, WordPress, C/C++/Java/Python, Flutter/Dart, Linux
+**الشهادات:** CCNA, Network+, MCSA, Security+, CEH, eJPT, OSCP
+**LinkedIn:** [Abdelrahman Atef (Scolze)](https://www.linkedin.com/in/abdoatef267/)
+
+---
+
+### 🧠 Adham Sayed — **El Doosh**
+
+*(صورة العضو يمكن إضافتها لاحقًا)*
+**التخصّص:** Network & System Administration · Web Security
+**المهارات:** CCNA, MCSA, Security+, CEH, HTML/CSS/JS, Linux
+**LinkedIn:** [Adham Sayed (El Doosh)](https://www.linkedin.com/in/adhm-sayed-3a590b324/)
+
+---
+
+### ⚙️ Youssef Abdullah — **Brom**
+
+<img src="https://k.top4top.io/p_3587tl63i1.jpg" alt="Youssef Abdullah (Brom)" width="140" style="border-radius:12px;box-shadow:0 0 10px rgba(0,0,0,0.3);margin:10px 0;">
+
+**التخصّص:** Network & System Administration · Cyber Security
+**المهارات:** CCNA, MCSA, Security+, CEH, HTML/CSS/JS, Linux
+**LinkedIn:** [Youssef Abdullah (Brom)](https://www.linkedin.com/in/yousef-abdullah-337693219/)
+
+---
+
+## 🛠️ خدمات الفريق
+
+* 🔐 **تقييم أمني شامل** للبنية التحتية والأنظمة.
+* 🧬 **اختبارات اختراق احترافية** (Red Team / Penetration Testing).
+* 🧩 **تحليل برمجيات خبيثة** (Malware Analysis & Reverse Engineering).
+* 🕵️‍♂️ **التحري الرقمي** (Digital Forensics & Incident Response).
+* ⚙️ **تطوير أدوات أتمتة أمنية** وتحسين أنظمة CI/CD.
+* 🧱 **Hardening** للخوادم والتطبيقات لضمان أعلى مستويات الأمان.
+
+---
+
+## 🔍 طريقة العمل
+
+1. **التحليل الأولي:** جمع المتطلبات وفهم نطاق المشروع.
+2. **الفحص الأمني:** تنفيذ اختبارات واكتشاف الثغرات يدويًا وآليًا.
+3. **التحليل الفني:** دراسة النتائج وتقديم حلول جذرية.
+4. **التوصيات والتقارير:** إصدار تقرير تفصيلي بخطة الإصلاح.
+5. **إعادة الفحص والمتابعة:** ضمان الإغلاق الكامل للثغرات.
+
+---
+
+## 💬 تواصل معنا
+
+* 🌐 **GitHub:** [SecProfs](#)
+* ✉️ **Email:** [contact@secprofs.example](mailto:contact@secprofs.example)
+* 💼 **LinkedIn:** عبر صفحات الأعضاء أعلاه
+
+---
+
+## ⚖️ الرخصة والالتزام
+
+* جميع المشاريع والمحتوى خاضعة لرخصة **MIT** إلا إذا تم الاتفاق على غير ذلك.
+* يلتزم الفريق بالقوانين الدولية والمحلية المتعلقة بأمن المعلومات والخصوصية.
+* نحترم سرية بيانات العملاء والتعاملات المهنية.
+
+---
+
+> *SecProfs – Where security meets professionalism.* 🔰
