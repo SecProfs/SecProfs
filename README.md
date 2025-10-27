@@ -1,31 +1,41 @@
-# ⚔️ SecProfs (Security Professors)
+<div align="center">
+
+<img src="https://j.top4top.io/p_3587hr6hp1.jpg" alt="SecProfs Logo" width="300" style="border-radius:16px; margin-top:20px;">
+
+### *Elite Cyber Security Professionals — Specialized in Reverse Engineering, PenTesting & Malware Analysis.*
+
+</div>
+
+---
+
+# ⚔️ **SecProfs (Security Professors)**
 
 > **“We don’t just secure systems — we secure trust.”**
 
 ---
 
-## 🧠 من نحن
+## 🧠 **من نحن**
 
-**SecProfs** (اختصار لـ *Security Professors*) هو فريق محترف يتكوّن من أربعة خبراء في **أمن المعلومات، التحليل العكسي، تحليل البرمجيات الخبيثة، الشبكات، وتطوير الأدوات الأمنية**. يجمع الفريق بين **الخبرة التقنية العميقة** و**الاحترافية العالية** في تقديم حلول أمنية متكاملة وذكية.
+**SecProfs** (اختصار لـ *Security Professors*) هو فريق مكوّن من أربعة خبراء في **أمن المعلومات، التحليل العكسي، تحليل البرمجيات الخبيثة، الشبكات، وتطوير الأدوات الأمنية**. يجمع الفريق بين **الخبرة التقنية العميقة** و**الاحترافية العالية** في تقديم حلول أمنية متكاملة وذكية.
 
 ---
 
-## 👥 أعضاء الفريق
+## 👥 **أعضاء الفريق**
 
 ### 🧩 Mohamed Mamdouh Fathy — **MASA**
 
-<img src="https://f.top4top.io/p_35871hnw91.jpg" alt="Mohamed Mamdouh (MASA)" width="150" style="border-radius:14px;box-shadow:0 0 12px rgba(0,0,0,0.25);margin:15px 0;">
+<img src="https://f.top4top.io/p_35871hnw91.jpg" alt="Mohamed Mamdouh (MASA)" width="160" style="border-radius:14px;box-shadow:0 0 12px rgba(255,0,0,0.4);margin:15px 0;">
 
 **التخصّص:** Reverse Engineering · Malware Analysis · Network Security · Digital Forensics · Red Team
 **المهارات:** Python, C#, C++, Shell Scripting, Automation, CI/CD, System Hardening, Linux, Ghidra, IDA Pro, Burp Suite, Wireshark
-**لغات البرمجة:** C, C#, C++, Python, PHP, Java, JavaScript, SQL, Go, Assembly, PowerShell, TypeScript, وغيرها
+**لغات البرمجة:** C, C#, C++, Python, PHP, Java, JavaScript, SQL, Go, Assembly, PowerShell, TypeScript, وغيرها.
 **LinkedIn:** [Mohamed Mamdouh (MASA)](https://www.linkedin.com/in/mohamed-mamdouh-masa/)
 
 ---
 
 ### 💻 Abdelrahman Atef — **Scolze**
 
-<img src="https://c.top4top.io/p_3587z6xa81.jpg" alt="Abdelrahman Atef (Scolze)" width="150" style="border-radius:14px;box-shadow:0 0 12px rgba(0,0,0,0.25);margin:15px 0;">
+<img src="https://c.top4top.io/p_3587z6xa81.jpg" alt="Abdelrahman Atef (Scolze)" width="160" style="border-radius:14px;box-shadow:0 0 12px rgba(255,0,0,0.4);margin:15px 0;">
 
 **التخصّص:** Web Development · Network Administration · Cyber Security
 **المهارات:** HTML/CSS/JS, PHP, Django, SQL, Firebase, WordPress, C/C++/Java/Python, Flutter/Dart, Linux
@@ -36,7 +46,7 @@
 
 ### 🧠 Adham Sayed — **El Doosh**
 
-<img src="https://g.top4top.io/p_3587mkccw1.jpg" alt="Adham Sayed (El Doosh)" width="150" style="border-radius:14px;box-shadow:0 0 12px rgba(0,0,0,0.25);margin:15px 0;">
+<img src="https://g.top4top.io/p_3587mkccw1.jpg" alt="Adham Sayed (El Doosh)" width="160" style="border-radius:14px;box-shadow:0 0 12px rgba(255,0,0,0.4);margin:15px 0;">
 
 **التخصّص:** Network & System Administration · Web Security
 **المهارات:** CCNA, MCSA, Security+, CEH, HTML/CSS/JS, Linux
@@ -46,7 +56,7 @@
 
 ### ⚙️ Youssef Abdullah — **Brom**
 
-<img src="https://k.top4top.io/p_3587tl63i1.jpg" alt="Youssef Abdullah (Brom)" width="150" style="border-radius:14px;box-shadow:0 0 12px rgba(0,0,0,0.25);margin:15px 0;">
+<img src="https://k.top4top.io/p_3587tl63i1.jpg" alt="Youssef Abdullah (Brom)" width="160" style="border-radius:14px;box-shadow:0 0 12px rgba(255,0,0,0.4);margin:15px 0;">
 
 **التخصّص:** Network & System Administration · Cyber Security
 **المهارات:** CCNA, MCSA, Security+, CEH, HTML/CSS/JS, Linux
@@ -54,7 +64,7 @@
 
 ---
 
-## 🛠️ خدمات الفريق
+## 🛠️ **خدمات الفريق**
 
 | 🧩 المجال                                     | 💡 التفاصيل                                         |
 | --------------------------------------------- | --------------------------------------------------- |
@@ -67,7 +77,7 @@
 
 ---
 
-## 🔍 منهجية العمل
+## 🔍 **منهجية العمل**
 
 > نلتزم بمنهجية عمل احترافية لضمان الجودة والنتائج الدقيقة:
 
@@ -79,21 +89,19 @@
 
 ---
 
-## 💬 تواصل معنا
+## 💬 **تواصل معنا**
 
 * 🌐 **GitHub:** [SecProfs](#)
 * ✉️ **Email:** [contact@secprofs.example](mailto:contact@secprofs.example)
 * 💼 **LinkedIn:** روابط الأعضاء أعلاه
-* 📬 **للتعاون أو المشاريع:** يرجى إرسال وصف مختصر للمشروع وسنعاود التواصل فورًا.
+* 📬 **للتعاون أو المشاريع:** أرسل وصف المشروع وسنعاود التواصل فورًا.
 
 ---
 
-## ⚖️ الرخصة والالتزام
+<div align="center" style="margin-top:30px;">
 
-* الرخصة الافتراضية: **MIT License**
-* الالتزام الكامل بمعايير **الخصوصية والقوانين الدولية لأمن المعلومات**
-* جميع المشاريع تُنفذ بسرّية تامة واحترافية عالية.
+### ⚖️ **SecProfs — Where Security Meets Professionalism.**
 
----
+© 2025 SecProfs Cyber Security | All Rights Reserved
 
-> 🔰 **SecProfs – Where Security Meets Professionalism.**
+</div>
