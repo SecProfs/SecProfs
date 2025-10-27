@@ -78,22 +78,12 @@ We combine **deep technical expertise** with **strategic insight** to deliver ad
 
 ---
 
-## 🔍 **Our Workflow**
 
-We adhere to a structured, professional methodology to ensure precision and reliability:
-
-1. **Initial Analysis:** Gathering information and defining scope.  
-2. **Comprehensive Testing:** Utilizing advanced tools for security evaluation.  
-3. **Technical Review:** Identifying vulnerabilities and analyzing impact.  
-4. **Recommendations:** Delivering detailed remediation and security reports.  
-5. **Revalidation:** Post-fix testing to confirm complete vulnerability closure.
-
----
 
 ## 💬 **Contact Us**
 
 - 🌐 **GitHub:** [SecProfs](#)  
-- ✉️ **Email:** contact@secprofs.example  
+- ✉️ **Email:** SecProfsofficial@gmail.com
 - 💼 **LinkedIn:** Refer to members’ profiles above  
 - 📬 **For collaborations or projects:** Send a detailed request — we’ll get back to you promptly.
 
